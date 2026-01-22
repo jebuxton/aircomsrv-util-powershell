@@ -1,0 +1,22 @@
+# PowerShell temp and backup files
+*.ps1~
+*.tmp
+*.bak
+*.backup
+*.old
+
+# Logs and transcripts
+*.log
+*.txt.transcript
+*.transcript
+Logging/
+
+# VS Code workspace files
+.vscode/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Git internal
+.git/
